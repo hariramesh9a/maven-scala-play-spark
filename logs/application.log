@@ -1,0 +1,5 @@
+2020-11-10 14:01:18,424 [INFO] from play.api.http.EnabledFilters in scala-execution-context-global-27 - Enabled Filters (see <https://www.playframework.com/documentation/latest/Filters>):
+
+    filters.ExampleFilter
+
+2020-11-10 14:01:18,560 [INFO] from play.api.Play in scala-execution-context-global-27 - Application started (Dev)
